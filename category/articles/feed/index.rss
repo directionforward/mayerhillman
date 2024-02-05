@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Articles &#8211; Dr Mayer Hillman</title>
+	<atom:link href="https://mayerhillman.wordpress.com/category/articles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mayerhillman.wordpress.com</link>
+	<description>Contributing towards a better world</description>
+	<lastBuildDate>Sat, 28 Apr 2018 21:18:54 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='mayerhillman.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Articles &#8211; Dr Mayer Hillman</title>
+		<link>https://mayerhillman.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://mayerhillman.wordpress.com/osd.xml" title="Dr Mayer Hillman" />
+	<atom:link rel='hub' href='https://mayerhillman.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Time to face up to the realities of climate change</title>
+		<link>https://mayerhillman.wordpress.com/2018/04/01/time-to-face-up-to-the-realities-of-climate-change/</link>
+					<comments>https://mayerhillman.wordpress.com/2018/04/01/time-to-face-up-to-the-realities-of-climate-change/#respond</comments>
+		
+		<dc:creator><![CDATA[mayerhillman]]></dc:creator>
+		<pubDate>Sun, 01 Apr 2018 21:09:32 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<guid isPermaLink="false">http://mayerhillman.com/?p=811</guid>
+
+					<description><![CDATA[Public expectations about the future give every impression that no substantial changes in the carbon-based aspects of our lifestyles are anticipated. They are founded in a belief of ever-lasting optimism – progress is not possible without hope of a successful outcome. The &#8230; <a href="https://mayerhillman.wordpress.com/2018/04/01/time-to-face-up-to-the-realities-of-climate-change/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>https://mayerhillman.wordpress.com/2018/04/01/time-to-face-up-to-the-realities-of-climate-change/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/dff2d523e5d550e6560b4dd075e3a8afbbfb241108d236b26b3817fa4b65b7a1?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mayerhillman</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
